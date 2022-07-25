@@ -6,7 +6,7 @@ Hunter College Computer Science
 <ol>
       <li>Programming Advanced Java</li>
       <li>Data Structures</li>
-      <li>Methods<li>
+      <li>Methods</li>
   </ol>
   
   </body>
