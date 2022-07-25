@@ -1,6 +1,6 @@
 <body bgcolor="blue">
       <h1>Hunter College Computer Science Program </h1>
-      <br><marquee>Kirk Martin</marquee>
+      <marquee>Kirk Martin</marquee>
 <br>This my webpage to show what I have learned so far.
       <h1>Courses</h1>
 <ol>
